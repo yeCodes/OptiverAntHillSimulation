@@ -16,8 +16,8 @@ An ant leaves its anthill in order to forage for food. It moves with the speed o
 
 
 ## Methodology
-Questions 1 and 2 are answered using Python scripts to simulate trials of the ants. 
-Question 3 was coded in Java. A lower-level language was required to achieved a large enough number of simulations so that results began to converge. Total simulations 100million. Python was far too slow for this, especially as it was running on only 1 core.
+Qs 1 and qs 2 were answered using Python scripts to simulate trials of the ants. 
+Qs 3 was coded in Java. A lower-level language was required to achieved a large enough number of simulations so that results began to converge. Total simulations 100 million. Python was far too slow for this, especially as it was running on only 1 core.
 
 - Defined boundary in each question
 - Simulated the ant's random walk to find food
