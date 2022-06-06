@@ -1,4 +1,4 @@
-# OptiverAntHillSimulation
+# OptiverAntHillSimulation - Quant Researcher Puzzle
 
 ## What the project does
 
