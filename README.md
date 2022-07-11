@@ -25,5 +25,5 @@ Qs 3 was coded in Java. A lower-level language was required to achieved a large 
 
 # Answers
 1. 4.5 seconds (2sf) - ran 100,000 simulations in python. Each simulation had up to 1,000 timesteps.
-2. 252 seconds (3sf) - ran 100 million simulations to arrive at this answer. 
-3. 14.0 seconds (3sf) - ran 1 million simulations in python. Each simulation had up to 10,000 timesteps. Runtime ~ 15 mins (python did not terminate)
+2. 252 seconds (3sf) - ran 100 million simulations in Java to arrive at this answer (python did not terminate).
+3. 14.0 seconds (3sf) - ran 1 million simulations in python. Each simulation had up to 10,000 timesteps. Runtime ~ 15 mins 
